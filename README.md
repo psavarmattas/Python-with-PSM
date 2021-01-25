@@ -12,9 +12,7 @@ If you want you can also watch our [video course on Python here](https://youtube
 
 Or just click below 
 
-<iframe>
- width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWfwhmpFdhZBQ6ZX6um4pkgEgP-wPEsQX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+"https://www.youtube.com/embed/videoseries?list=PLWfwhmpFdhZBQ6ZX6um4pkgEgP-wPEsQX"
 
 ## Read our blog:
 
