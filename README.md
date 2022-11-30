@@ -4,19 +4,9 @@
 
 Hello and welcome to I think your 10th try to learn Python on YouTube and at this point you think will this person or this YouTube channel help me actually study and learn Python language with a little fun. Guess what my friends you are at the correct destination and wait on further I can help you understand from the very basic level to the top with which you can actually do many things like creating fully working apps to gaming and automation of your favourite tasks using Python. At the end for this series your imagination will be the limit of what you can create.
 
-_Skip the '1. Hello & Welcome.md' if you read the'README.md' fully._
-
 ## Watch Our Video:
 
-If you want you can also watch our [video course on Python here](https://youtu.be/_orQp399Ob4) to get a better understanding on [how to get started with Python](https://youtube.com/playlist?list=PLWfwhmpFdhZBQ6ZX6um4pkgEgP-wPEsQX)
-
-Or just click below 
-
-"https://www.youtube.com/embed/videoseries?list=PLWfwhmpFdhZBQ6ZX6um4pkgEgP-wPEsQX"
-
-## Read our blog:
-
-Go read our blog for a detailed write up on this project ["Python With PSM"](https://psmforums.wordpress.com/?post_type=jetpack-portfolio&p=673).
+If you want you can also watch our [video course on Python here](https://youtube.com/playlist?list=PLsHhqcLgoVMscwEsZqJ2_Mb6-WDXF4fn5) to get a better understanding on [how to get started with Python](https://youtube.com/playlist?list=PLsHhqcLgoVMscwEsZqJ2_Mb6-WDXF4fn5)
 
 ## Briefing of Python:
 
@@ -48,11 +38,17 @@ That's it so here we end our introduction and from our next video you will start
 
 2. Python Environment Container (anaconda): https://www.anaconda.com/products/individual
 
+## Social Links
+
+1. [Contribute Your Ideas](https://forms.gle/jcdMUKe7qN2ZyDENA)
+
+2. [Support Query](https://forms.gle/EancGTceW4fmCgys9)
+
 ## Equipment Used:
 
-1. Video Editor: Adobe Premiere Pro 2020
+1. Video Editor: Davinci Resolve
 2. Mic Used: Bulfyss BM-800
 3. Power Supply (for Mic): 48v Phantom Power Supply
 4. Audio Editor: Audacity
 5. Headphones (Used for audio): Boult Pro-Bass Ranger (Over-Ear)
-6. Laptop OS Used: Windows 10 (Last Updated 24 January 2021)
+6. Laptop OS Used: Windows 11
